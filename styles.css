@@ -1,0 +1,24 @@
+/* styles.css */
+
+/* Change the background color of the main content area */
+body {
+    background-color: #579ad4;
+}
+
+/* Change the font style and size */
+body, .css-10trblm, .css-1d391kg {
+    font-family: 'Arial', sans-serif;
+    font-size: 18px;
+}
+
+/* Optional: Change the font style and size for headers */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Verdana', sans-serif;
+    font-size: 24px;
+}
+
+/* Change sidebar background color */
+.sidebar .sidebar-content {
+    background-color: #0a323f;
+}
+
